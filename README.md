@@ -2,7 +2,7 @@
 
 ## Сслыка на репозиторий
 
-[Репозиторий на GitHub](https://github.com/Galeav/slozhno-sosredotochitsya)
+[https://github.com/Galeav/slozhno-sosredotochitsya](https://github.com/Galeav/slozhno-sosredotochitsya)
 
 ## Сслыка на макет
 
