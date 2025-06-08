@@ -2,4 +2,4 @@
 
 ## Сслыка на репозиторий
 
-[https://github.com/Galeav/slozhno-sosredotochitsya](https://github.com/Galeav/slozhno-sosredotochitsya)
+[https://github.com/Galeav/slozhno-sosredotochitsya.git](https://github.com/Galeav/slozhno-sosredotochitsya.git)
